@@ -1,0 +1,9 @@
+telebot
+pyTelegramBotAPI
+requests
+httpx
+faker
+beautifulsoup4
+selenium
+Pillow
+flask
